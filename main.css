@@ -33,7 +33,7 @@ a {
 body {
   margin: 0px;
   font-family: "Poppins", sans-serif;
-  background-image: url(/img/mobile_bg-small-375.webp);
+  background-image: url(img/mobile_bg-small-375.webp);
   background-color: #000;
   background-repeat: no-repeat;
   background-size: cover;
@@ -418,7 +418,7 @@ a {
     justify-content: space-evenly;
   }
   body {
-    background-image: url(/img/bg-medium-1024.webp);
+    background-image: url(img/bg-medium-1024.webp);
   }
   .bgopacity {
     height: 110vh;
